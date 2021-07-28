@@ -7,3 +7,4 @@ numero=int(input("introduce un numero entero"))
 
 print("string", palabra)
 print("numero entero", numero)
+print("gracias")
